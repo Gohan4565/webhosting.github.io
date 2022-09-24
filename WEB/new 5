@@ -1,0 +1,20 @@
+<html>
+<head>
+<title> Write your self</title>
+</head>
+<body>
+<h2>ENTER YOUR DETAILS</h2>
+<Form>
+<fieldset>
+<legend><strong>ENTER YOUR DETAILS</strong></legend>
+First Name:
+<input type="text" name="firstname"><br><br>
+Lastname:
+<input type="text" name="lastname><br>
+Age:
+<input type="radio" name="age">under 18
+<input type="radio" name="age">above 18
+<select  name="Qualification">
+<option value="b.tec">B.tec</option>
+</select>
+</body></html>
